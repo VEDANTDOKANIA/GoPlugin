@@ -1,0 +1,23 @@
+{
+  "1": [
+    {
+      "Metric_Type": "linux",
+      "IP address": "10.20.40.140",
+      "User-Name": "vedant",
+      "password": "Mind@123",
+      "Port": 22
+    },
+    {
+      "Metric_Type": "windows",
+      "IP address": "172.16.8.113",
+      "User-Name": "dhvani",
+      "password": "Mind@123",
+      "Port": 5985
+    }
+  ]
+}
+
+
+Base64 of above string :-
+
+eyIxIjpbeyJNZXRyaWNfVHlwZSI6ImxpbnV4IiwiSVAgYWRkcmVzcyI6IjEwLjIwLjQwLjE0MCIsIlVzZXItTmFtZSI6InZlZGFudCIsInBhc3N3b3JkIjoiTWluZEAxMjMiLCJQb3J0IjoyMn0seyJNZXRyaWNfVHlwZSI6IndpbmRvd3MiLCJJUCBhZGRyZXNzIjoiMTcyLjE2LjguMTEzIiwiVXNlci1OYW1lIjoiZGh2YW5pIiwicGFzc3dvcmQiOiJNaW5kQDEyMyIsIlBvcnQiOjU5ODV9XX0=
