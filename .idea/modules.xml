@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Winrm_Plugin.iml" filepath="$PROJECT_DIR$/.idea/Winrm_Plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Winrm_SSH_SNMP_Plugin.iml" filepath="$PROJECT_DIR$/.idea/Winrm_SSH_SNMP_Plugin.iml" />
     </modules>
   </component>
 </project>
